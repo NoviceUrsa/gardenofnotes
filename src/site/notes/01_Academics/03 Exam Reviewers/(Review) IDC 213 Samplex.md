@@ -101,13 +101,12 @@ C. Erythropoietin should not even be considered in the Philippine setting.
 >- B: EPO can be expensive and relatively hard to obtain for remote or rural areas 
 
 >[!note]- If in the Philippines, the baseline risk of death or moderate or severe neurodevelopmental abnormality is 80%, what is the NNT should erythropoietin be adopted? (Round off to the nearest whole number)
->![[Pasted image 20230601161322.png\|Pasted image 20230601161322.png]]
 >- Baseline risk → Risk in Control Group ($R_C$) = 0.8
 >- Risk in Treatment Group from the paper is 0.4
 >$$NNT=\frac{1}{ARR}=\frac{1}{(R_C-R_T)}=\frac{1}{0.8-0.4}=\frac{1}{0.4}=2.5\approx 3$$
 
 >[!note]- In the Philippines, the cost of 2000 IU or erythropoietin is P450, using the Philippine adjusted baseline risk, what is the cost of preventing 1 additional death or moderate or severe neurodevelopmental abnormality if the use of erythropoietin was adapted.
->$$Cost\ to\ Prevent=NNT\timesCost\timesDuration=3\times450\times5$$
+>$$Cost\ to\ Prevent=NNT\times Cost\times Duration=3\times450\times5$$
 >- Duration is based on the article saying that the administration of EPO had a total of 5 doses
 >	- ![(Review) IDC 213 Samplex-230601-10.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-10.png)
 
@@ -226,4 +225,113 @@ C. Socioeconomic factors should not even be discussed since the test isn’t acc
 >	- Diagnosed as atypical fracture
 >- [?] Does prolonged intake of bisphosphonates increase risk for fractures?
 >- [i] “Predisposing factors associated with atypical femur fractures among postmenopausal Korean women receiving bisphosphonates therapy: 8 years’ experience in a single center, by Koh JH, et al. from the journal: Osteoporos Int. 2017. July.
+
+- [k] This is a harm study 
+
+
+## Directness
+
+|          | Study                            | Scenario                         |
+| -------- | -------------------------------- | -------------------------------- |
+| Patient  | Postmenopausal Korean Women      | Postmenopausal Filipino Woman    |
+| Exposure | Bisphosphonate use ≥1 year       | Bisphosphonate for 5 years       |
+| Outcome  | Risk for Atypical Femur Fracture | Risk for Atypical Femur Fracture | 
+
+>[!note]- Does the study provide a direct enough answer to your clinical question in terms of type of patients (P), exposure/intervention (E), and outcome (O)?
+>YES
+>- ![(Review) IDC 213 Samplex-230601-21.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-21.png)
+>- ![(Review) IDC 213 Samplex-230601-20.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-20.png)
+>- ![(Review) IDC 213 Samplex-230601-22.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-22.png)
+
+## Validity
+>[!note]- Were the patient groups being compared sufficiently similar with respect to baseline characteristics? If not, were statistical adjustments made?
+>![(Review) IDC 213 Samplex-230601-23.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-23.png)
+>There are differences between the case and controls in terms of the BMI, weight, etc. (p-value <0.05) 
+>![(Review) IDC 213 Samplex-230601-24.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-24.png)
+>The above table shows that they created models to statistically adjust for the differences in their analysis 
+
+>[!note]- What is the study design for this study?
+>Case-control study: Study begins by recruiting patients with outcome and without outcome then retrospectively analyzing if there is exposure to the harmful agent
+>![(Review) IDC 213 Samplex-230601-26.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-26.png)
+
+A. Case-Control Study
+B. RCT
+C. Cohort Study
+D. Cross-sectional Study
+>[!note]- Which of the above study designs is not used for the evaluation of harmful exposures?
+>D. Cross-sectional Study
+>- A, B, and C are all used in harm studies while cross-sectional study is an observational study design where data is collected at one point in time thus, the effect of the harmful exposure cannot be ascertained with this type of design
+
+A. Case-control studies can be done prospectively.
+B. Relative risks can be determined with a case-control design.
+C. Odds ratios always approximate relative risks.
+D. The case-control design is the study design of choice for harm especially if the outcome is rare or if the latency is long.
+>[!note]- Which of the above statements is true for a case control study design?
+>D. The case-control design is the study design of choice for harm especially if the outcome is rare or if the latency is long.
+>- A is wrong as case control studies are *retrospective* and the prospective studies for harm are cohort studies and RCTs
+>- B is wrong as Case Control designs are limited to Odds Ratios as it can only provide association connections and not causation
+>- C is wrong as you can only use Odd Ratios to approximate Relative Risk *if the outcome is very rare*
+>- D is correct because RCTs and cohorts are impractical for rare outcomes and long latency periods
+
+>[!note]- Were unbiased criteria used to determine exposure in all patients?
+>YES, the prolonged use of bisphosphonates were determined by the use of hospital electronic records 
+>![(Review) IDC 213 Samplex-230601-27.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-27.png)
+
+A. Recall Bias
+B. Recording Bias
+C. Interviewer Bias
+D. AOTA are true
+>[!note]- Which of the choices are sources of bias in determining exposure in case-control studies?
+>D. AOTA are true
+>- Recall bias is the inability to recall exposure in those with and without the outcome of interest wherein, the cases are more likely to recall the exposure vs. control
+>- Recording bias is seen in those who have the outcome of interest being hospitalized thus, having more records compared to those without the outcome
+>- Interviewer bias is when interviewers tend to be more persistent or probing in those who have the outcome vs. control group
+
+>[!note]- Were unbiased criteria used to detect outcome in all patients?
+>Unbiased criteria was used to determine outcome in those with AFF but not in controls
+>![(Review) IDC 213 Samplex-230601-28.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-28.png)
+>- No data on what was used to document the controls only those who were found to have AFF had been stated to be assessed with unbiased criteria
+
+## Results
+>[!note]- If exposure is defined as ≥ 5 years BP, among those with AFF, what are the odds of exposure? Round your answer to 1 decimal place.
+>![(Review) IDC 213 Samplex-230601-29.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-29.png)
+>$$AFF\ Odds_{BP \geq 5 yr}=\frac{AFF_{BP\geq 5yr}}{AFF_{BP < 5 yr}}=\frac{33}{43-33}=\frac{33}{10}=3.3$$
+
+>[!note]- If exposure is defined as ≥ 5 years BP, among those without AFF, what are the odds of exposure? Round your answer to 2 decimal places.
+>![(Review) IDC 213 Samplex-230601-30.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-30.png)
+>$$No\ AFF\ Odds_{BP \geq 5 yr}=\frac{No\ AFF_{BP \geq 5 yr}}{No\ AFF_{BP < 5 yr}}=\frac{60}{129-60}=\frac{60}{69}=0.8695652174\approx 0.87$$
+
+>[!note]- What is the odds ratio of AFF among those with exposure (≥ 5 years BP use) compared to those without exposure (< 5 years BP use)? Round your answer to 2 decimal places.
+>$$OR=\frac{AFF\ Odds}{No\ AFF\ Odds}=\frac{3.3}{0.8695652174}=3.795\approx 3.80$$
+
+>[!note]- For the exposure of long term use of corticosteroids (≥ 1 year), what are the odds of AFF among those exposed to ≥ 1 year of steroids vs. those on < 1 year of steroids? Round your answer to 2 decimal places.
+>![(Review) IDC 213 Samplex-230601-31.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-31.png)
+>$$AFF\ Odds_{CS\geq 1yr}=\frac{AFF_{CS \geq 1 yr}}{AFF_{CS<1 yr}}=\frac{16}{43-16}=\frac{16}{27}=0.5925925926$$
+>$$No\ AFF\ Odds_{CS\geq 1 yr}=\frac{No\ AFF_{CS\geq 1yr}}{No\ AFF_{CS<1 yr}}=\frac{11}{129-11}=\frac{11}{118}=0.093220339$$
+>$$OR=\frac{Odds_{AFF}}{Odds_{No\ AFF}}=\frac{0.5925925926}{0.093220339}=6.3569023569\approx 6.36$$
+
+## Applicability
+>[!note]- Are there biologic factors that may affect applicability?
+>Yes, as outlined in the prior question on the baseline characteristics of the patients in the study, there are biologic factors such as having Rheumatoid Arthritis, Diabetes Mellitus, Hypertension, and Osteoarthritis affecting the applicability
+>![(Review) IDC 213 Samplex-230601-32.png](/img/user/assets/(Review)%20IDC%20213%20Samplex-230601-32.png)
+
+>[!note]- Are there socio-economic issues affecting applicability of the exposure?
+>YES, bisphosphonates are expensive and are difficult to comply with 
+
+## Individualizing
+>[!note]- If the baseline risk of AFF is 5.9 atypical fracture per 100,000 person-years (Curr Opin Support Palliat Care. 2020 Sep; 6(3): 348-354), what is the post-exposure risk after ≥ 5 years of bisphosphonates? The answer should be expressed per 100,000 person-years. Round your answer to 1 decimal place.
+>Since the baseline risk is 5.9 per 100,000 person-years, the outcome is so rare that odds and probabilities can be exchanged for each other. The OR is derived from the computation in the prior number which is equal to 3.79
+>$$Postexposure\ Risk=Baseline\ Risk\times OR=5.9\times 3.795=22.3905\approx 22.4$$
+>- The original formula is $Post-exposure\ Odds=Pre-exposure\ Odds\times OR$
+
+>[!note]- If the baseline risk of AFF is 5.9 atypical fracture per 100,000 person-years (Curr Opin Support Palliat Care. 2020 Sep; 6(3): 348-354), what is the post-exposure risk after > 1 year of steroids? The answer should be expressed per 100,000 person-years. Round your answer to 1 decimal place.
+>Similar to the previous question, the probabilities and risks are interchangeable. From the previous computations, the OR for those with >1 year steroids is 6.36
+>$$Postexposure\ Risk=5.9\times 6.36=37.524\approx 37.5$$
+
+>[!note]- If the baseline risk of AFF is 5.9 atypical fracture per 100,000 person-years (Curr Opin Support Palliat Care. 2020 Sep; 6(3): 348-354), what is the post-exposure number needed to harm after > 5 years of exposure to bisphosphonates? The answer should be rounded off to the nearest whole number.
+>$$NNH=\frac{1}{ARI}=\frac{1}{Postexposure\ Risk-Preexposure\ Risk}=\frac{1}{22.3905-5.9}=\frac{1}{16.4905}=0.0606409751\times 100,000=6,064.09751\approx 6064$$
+>- We multiply the NNH by 100,000 because the baseline risk is measured per 100,000 person-years
+
+# Fourth Tranche
+>[!info] Case 4: 
 
