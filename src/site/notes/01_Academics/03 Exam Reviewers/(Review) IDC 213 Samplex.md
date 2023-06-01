@@ -212,5 +212,18 @@ C. Socioeconomic factors should not even be discussed since the test isn’t acc
 >[!note]- Assuming a diagnostic threshold of 10% and a therapeutic threshold of 90%, if a 70 year old male presents in the ER with a pretest probability of 85% and he tested with a lactate level of between 2-4 mmole/L, what is his post test probability of sepsis?(Give your answer in percent. Round your answer to one decimal place)
 >$$Pretest\ Odds=\frac{Probability}{1-Probability}=\frac{0.85}{1-0.85}=5.6666666667$$
 >$$Posttest\ Odds=LR_{2-4 \frac{mmol}{L}}\times Pretest\ Odds=1.68\times5.6666666667=9.5200000001$$
->$$Posttest\ Probability=\frac{Odds}{1+Odds}=\frac{9.5200000001}{1+9.5200000001}=0.9049429658\approx90.5%$$
+>$$Posttest\ Probability=\frac{Odds}{1+Odds}=\frac{9.5200000001}{1+9.5200000001}=0.9049429658\approx90.5$$
+
+>[!note]- Assuming a diagnostic threshold of 10% and a therapeutic threshold of 90%, if a 70 year old male presents in the ER with a pretest probability of 85% and he tested with a lactate level of < 2 mmole/L, what is his post test probability of sepsis? (Give your answer in percent. Round your answer to one decimal place)
+>From the previous number, the pretest odds would be 5.6666666667 and an LR of 0.80
+>$$Posttest\ Odds=0.80\times 5.6666666667=4.5333333334$$
+>$$Posttest\ Probability=\frac{4.5333333334}{1+4.5333333334}=0.8192771084\approx81.9$$
+
+# Third Tranche
+>[!info] Case 3
+>- 72/F who fractured proximal femur by walking
+>	- On bisphosphonates for 5 years for osteoporosis
+>	- Diagnosed as atypical fracture
+>- [?] Does prolonged intake of bisphosphonates increase risk for fractures?
+>- [i] “Predisposing factors associated with atypical femur fractures among postmenopausal Korean women receiving bisphosphonates therapy: 8 years’ experience in a single center, by Koh JH, et al. from the journal: Osteoporos Int. 2017. July.
 
