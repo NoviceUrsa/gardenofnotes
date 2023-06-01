@@ -454,6 +454,7 @@
 >2. Convert pre-exposure risk to pre-exposure odds
 >	- $Preexposure\ Odds=\frac{Preexposure\ Risk}{1-Preexposure\ Risk}$
 >3. Multiple pre-exposure odds by odds ratio to get the post-exposure odds
+>	- $Post-exposure\ Odds=Pre-exposure\ Odds\times OR$
 >4. Convert post-exposure odds to a post-exposure probability 
 >	- $Postexposure\ Probability=\frac{Postexposure\ Odds}{1+Postexposure\ Odds}$
 >5. Make decision whether you will advise to stop the exposure
